@@ -1,0 +1,5 @@
+Data/
+venv/
+.idea/
+__pycache__/
+figures/
